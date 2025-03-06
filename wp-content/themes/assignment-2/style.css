@@ -1,0 +1,17 @@
+/*
+Theme Name:     assignment 2
+Description:    
+Author:         marikoooooo
+Template:       hestia
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+body {
+	background-color:black;
+	
+}
+
+.main {
+	color:lightpink;
+}
